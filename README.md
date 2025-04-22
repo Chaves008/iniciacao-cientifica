@@ -5,7 +5,8 @@ Este projeto investigará métodos de supervisão e controle de dados de um rob�
 ## 🚀 Tecnologias Utilizadas
 - Arduino
 - C/C++
-- PowerBi 
+- PowerBi
+- Excel
 
 <br>
 
@@ -14,7 +15,7 @@ Este projeto investigará métodos de supervisão e controle de dados de um rob�
 | Nome | GitHub | Linkedin | Foto |
 |------|--------|----------|------|
 | **Hailton de Melo Lima Neto** | [hailtonneto](https://github.com/hailtonneto) | [Hailton Neto](https://www.linkedin.com/in/hailton-neto-2a81a1196/) | <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/130097508?v=4" width="80px;" alt="Hailton"/> |
-| **Lucas Chaves Sampaio Ferrer** | [Chaves216](https://github.com/Chaves216) | [Lucas Chaves](https://www.linkedin.com/in/lucaschavesf/) | <img style="border-radius: 50%" src="" width="80px;" alt="Lucas"/> |
-| **Messias Daniel Ferreira da Silva Filho** | [Messias-Daniel](https://github.com/Messias-Daniel) | [Messias Daniel](https://www.linkedin.com/in/messias-daniel-1245a3304/) | <img style="border-radius: 50%" src="" width="80px;" alt="Messias"/> |
+| **Lucas Chaves Sampaio Ferrer** | [Chaves216](https://github.com/Chaves216) | [Lucas Chaves](https://www.linkedin.com/in/lucaschavesf/) | <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/130097575?v=4" width="80px;" alt="Lucas"/> |
+| **Messias Daniel Ferreira da Silva Filho** | [Messias-Daniel](https://github.com/Messias-Daniel) | [Messias Daniel](https://www.linkedin.com/in/messias-daniel-1245a3304/) | <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/167141068?v=4" width="80px;" alt="Messias"/> |
 
 <br>
